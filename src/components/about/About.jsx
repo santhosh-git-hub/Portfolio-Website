@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            This shows the information, consectetur adipisicing elit.
             Accusantium neque veritatis temporibus dolor soluta cumque facere
             dolorem distinctio a est?
           </p>
